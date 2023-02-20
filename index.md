@@ -6,4 +6,4 @@ I created this webiste during [this workhop](https://github.com/RSE-Sheffield/gi
 
 ![](belinda-fewings.jpg)
 
-Photo by <a href=https://chicago.medicine.uic.edu/wp-content/uploads/sites/6/2022/11/belinda-fewings-6wAGwpsXHE0-unsplash_smaller.jpg"> 
+Photo by <a href="https://unsplash.com/@bel2000a?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Belinda Fewings</a> on <a href="https://unsplash.com/photos/6wAGwpsXHE0?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
